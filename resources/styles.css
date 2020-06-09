@@ -1,0 +1,21 @@
+.background {
+  viewport-fill: fb-black;
+}
+
+#title {
+  fill: white;
+  font-size: 36;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 99;
+}
+
+#treecount {
+  fill: white;
+  font-size: 44;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 99;
+}

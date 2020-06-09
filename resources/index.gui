@@ -1,0 +1,5 @@
+<svg class="background">
+  <image id="img" x = "6" y = "12" width="288" height="170" href="trees.png" />
+  <text id="title" x="50%" y="230"></text>
+  <text id="treecount" x="50%" y="280"></text>
+</svg>

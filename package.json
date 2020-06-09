@@ -1,0 +1,33 @@
+{
+  "fitbit": {
+    "appUUID": "3195a544-6e4e-4e02-a894-00b354f2e3d4",
+    "appType": "app",
+    "appDisplayName": "Planted Trees",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#009688",
+    "requestedPermissions": [
+      "access_internet"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Planted Trees"
+      },
+      "de": {
+        "name": "Planted Trees"
+      },
+      "fr": {
+        "name": "Arbres plantés"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}
