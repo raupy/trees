@@ -1,2 +1,5 @@
 msgid "Planted trees:"
 msgstr "Gepflanzte Bäume:"
+
+msgid "No connection"
+msgstr "Kein Internet"
