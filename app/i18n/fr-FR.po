@@ -1,2 +1,8 @@
 msgid "Planted trees:"
 msgstr "Arbres plantés:"
+
+msgid "No connection"
+msgstr "Pas de connection"
+
+msgid "Loading..."
+msgstr "Chargement..."

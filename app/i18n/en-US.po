@@ -3,3 +3,6 @@ msgstr "Planted trees:"
 
 msgid "No connection"
 msgstr "No connection"
+
+msgid "Loading..."
+msgstr "Loading..."

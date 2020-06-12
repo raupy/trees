@@ -2,4 +2,7 @@ msgid "Planted trees:"
 msgstr "Gepflanzte Bäume:"
 
 msgid "No connection"
-msgstr "Kein Internet"
+msgstr "Keine Verbindung"
+
+msgid "Loading..."
+msgstr "Lädt..."
