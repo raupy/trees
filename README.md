@@ -1,4 +1,4 @@
-# planted trees for fitbit
+# PlantedTrees for Fitbit
 This is just a simple Fitbit App that shows the Ecosia tree counter. It is a fan project and not developed by Ecosia. 
 
 The app looks like this:
