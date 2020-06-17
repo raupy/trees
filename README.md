@@ -3,4 +3,4 @@ This is just a simple Fitbit App that shows the Ecosia tree counter. It is a fan
 
 The app looks like this:
 
-![alt text](https://github.com/raupy/trees/blob/master/resources/example.jpeg?raw=true)
+![alt text](https://github.com/raupy/trees/blob/queen/resources/example.jpeg?raw=true)
